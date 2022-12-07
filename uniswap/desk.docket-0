@@ -1,0 +1,11 @@
+:~
+  title+'Uniswap'
+  info+'Uniswap interface'
+  color+0xff.ffff
+  version+[0 0 1]
+  website+'https://uniswap.org'
+  license+'MIT'
+  image+'https://cryptologos.cc/logos/uniswap-uni-logo.svg'
+  base+'uniswap'
+  glob-ames+[~maptyl-lapsyl 0v0]
+==
